@@ -1,0 +1,85 @@
+{
+    "personal_info": {
+      "name": "Krish Pinto",
+      "title": "Full Stack Developer",
+      "email": "krishpinto123@gmail.com",
+      "phone": "+91 9324810880",
+      "location": "Navi Mumbai, IN",
+      "linkedin": "https://www.linkedin.com/in/krish-pinto-982ab41ba/",
+      "github": "https://github.com/krishpinto"
+    },
+    "education": [
+      {
+        "institution": "Apeejay School, Nerul",
+        "level": "12th HSC (CBSE) and 10th SSC (CBSE)",
+        "years": "2008 - 2023"
+      },
+      {
+        "institution": "Fr. C. Rodrigues Institute of Technology",
+        "degree": "Bachelor of Technology in Computer Engineering",
+        "years": "2023 - Present",
+        "cgpa": 8.73
+      }
+    ],
+    "experience": [
+      {
+        "role": "Undergraduate Computer Engineer",
+        "company": "-",
+        "years": "2023 - Present",
+        "description": "Developed a Hotel Management System using Java and SQL for database management."
+      }
+    ],
+    "skills": {
+      "frontend": ["Express.js", "React.js", "Next.js", "Asternity UI", "Shadcn UI", "Kokonut UI", "Magic UI", "Tailwind CSS", "Next UI", "EJS", "Framer Motion", "HTML", "CSS"],
+      "backend": ["Node.js", "JavaScript", "TypeScript", "C++", "C"],
+      "databases": ["MongoDB", "Prisma ORM", "Firebase", "MySQL", "Appwrite", "PostgreSQL", "SQLite3", "Supabase"],
+      "tools": ["Git", "GitHub", "MS Visual Studio", "Insomnia", "Postman", "NetBeans", "Replit"],
+      "cloud_technologies": ["AWS", "Vercel", "Netlify", "Hostinger"],
+      "cloud_buckets": ["Appwrite Bucket", "Supabase", "Firebase"]
+    },
+    "projects": [
+      {
+        "name": "Taskmaster",
+        "description": "Task management website with real-time updates, role-based access, collaborative task assignments, and notifications.",
+        "tech_stack": ["Next.js", "Firebase", "Appwrite"],
+        "link": "https://tasmaster-v3.vercel.app/"
+      },
+      {
+        "name": "SuperPOS",
+        "description": "Web-based quantum simulator for interactive learning, supporting real-time 2D and 3D quantum circuit visualization.",
+        "tech_stack": ["Cirq", "Plotly", "Next.js"],
+        "link": "https://ieeexplore.ieee.org/document/10859909"
+      },
+      {
+        "name": "Hotel Management System",
+        "description": "Developed a hotel management website with booking management, customer records, and payment processing.",
+        "tech_stack": ["Java", "Spring Boot", "MySQL"]
+      },
+      {
+        "name": "Expense Tracker App",
+        "description": "Python-based expense tracker with real-time calculations and a Tkinter GUI.",
+        "tech_stack": ["Python", "Tkinter", "SQLite"]
+      }
+    ],
+    "research": [
+      {
+        "title": "SuperPOS: An Interactive Web-Based Quantum Simulator with Real-Time 2D and 3D Visualizations",
+        "published": "IEEE",
+        "description": "Developed a web-based quantum simulator to enhance quantum computing learning.",
+        "link": "https://ieeexplore.ieee.org/document/10859909"
+      }
+    ],
+    "hackathons": [
+      "Agnethon",
+      "SPIT Hackathon",
+      "EnCode by IIT Guwahati",
+      "Technova by Xaviers",
+      "Hackofiesta by IIT Lucknow",
+      "2nd place in Open Innovation at Sparkathon by FCRIT"
+    ],
+    "languages": {
+      "English": "Proficient",
+      "Hindi": "Proficient",
+      "Marathi": "Intermediate"
+    }
+  }
